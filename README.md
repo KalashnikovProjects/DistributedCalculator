@@ -2,12 +2,12 @@
 
 Проект на Go, состоящий из микросервисов, разделяет выражение на минимальные операции и выполняет каждую на отдельном агенте.
 
-<img src="https://github.com/KalashnikovProjects/ZadachaGoYaLyceum/raw/master/images/index.png" width="800" alt="Главная страница"/>
+<img src="images/index.png" width="800" alt="Главная страница"/>
 
 <details><summary>Скриншоты</summary>
-<img src="https://github.com/KalashnikovProjects/ZadachaGoYaLyceum/raw/master/images/expressions.png" alt="Страница статусов выражений" width="800"/>
-<img src="https://github.com/KalashnikovProjects/ZadachaGoYaLyceum/raw/master/images/login page.png" alt="Страница входа в аккаунт" width="800"/>
-<img src="https://github.com/KalashnikovProjects/ZadachaGoYaLyceum/raw/master/images/workers.png" alt="Страница воркеров" width="800"/>
+<img src="images/expressions.png" alt="Страница статусов выражений" width="800"/>
+<img src="images/login page.png" alt="Страница входа в аккаунт" width="800"/>
+<img src="images/workers.png" alt="Страница воркеров" width="800"/>
 </details>
 
 * Автор - https://t.me/Kalashn11k (если что-то не работает или не запускается - напиши мне пж)
@@ -53,7 +53,7 @@
 
 https://excalidraw.com/#json=r-Xul8-656AqJ2I7FXNsD,twgOHC54lDg_xqVgwV19Xg
 
-<img src="https://github.com/KalashnikovProjects/ZadachaGoYaLyceum/raw/master/images/schema-documentation.png" alt="Документация в виде схемы"/>
+<img src="images/schema-documentation.png" alt="Документация в виде схемы"/>
 
 ## А теперь по критериям
 1. Весь реализованный ранее функционал работает как раньше, только в контексте конкретного пользователя. За эту часть можно получить 20 баллов
@@ -87,7 +87,7 @@ https://excalidraw.com/#json=r-Xul8-656AqJ2I7FXNsD,twgOHC54lDg_xqVgwV19Xg
 
 ### Покрытие тестом:
 
-<img src="https://github.com/KalashnikovProjects/ZadachaGoYaLyceum/raw/master/images/agent integration test coverage.png" width="500" style="float: left;" alt="Покрытие тестом gRPC агента"/>
+<img src="images/agent integration test coverage.png" width="500" style="float: left;" alt="Покрытие тестом gRPC агента"/>
 
 ### Что делает тест API: 
 
@@ -103,11 +103,11 @@ https://excalidraw.com/#json=r-Xul8-656AqJ2I7FXNsD,twgOHC54lDg_xqVgwV19Xg
 
 ### Покрытие тестом:
 
-<img src="https://github.com/KalashnikovProjects/ZadachaGoYaLyceum/raw/master/images/api integration test coverage.png" width="700" style="float: left;" alt="Покрытие тестом API"/>
+<img src="images/api integration test coverage.png" width="700" style="float: left;" alt="Покрытие тестом API"/>
 
 ## Общее покрытие тестами
 
-<img src="https://github.com/KalashnikovProjects/ZadachaGoYaLyceum/raw/master/images/all tests coverage.png" width="800" style="float: left;" alt="Общее покрытие тестами"/>
+<img src="images/all tests coverage.png" width="800" style="float: left;" alt="Общее покрытие тестами"/>
 
 ### Для запуска тестов:
 
